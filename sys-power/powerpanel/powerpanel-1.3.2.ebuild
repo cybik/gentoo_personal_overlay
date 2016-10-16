@@ -2,6 +2,8 @@
 # Distributed under the terms of the GNU General Public License v2 
 # $Id$ 
 
+# Copied into my overlay STRAIGHT from https://forums.gentoo.org/viewtopic-t-1041668-start-0.html
+
 EAPI=5 
 
 ZIPPV=${PV//./} 
