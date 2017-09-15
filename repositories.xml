@@ -2,7 +2,7 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name><![CDATA[cybik-overlay]]></name>
+    <name><![CDATA[overcy]]></name>
     <description lang="en"><![CDATA[Cybik's Overlay]]></description>
     <homepage>http://github.com/cybik/gentoo_personal_overlay</homepage>
     <owner type="person">
